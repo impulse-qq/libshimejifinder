@@ -3,7 +3,7 @@
 	url = https://github.com/libarchive/libarchive
 [submodule "unarr"]
 	path = unarr
-	url = https://github.com/selmf/unarr
+	url = https://github.com/impulse-qq/unarr
 [submodule "pugixml"]
 	path = pugixml
 	url = https://github.com/zeux/pugixml
